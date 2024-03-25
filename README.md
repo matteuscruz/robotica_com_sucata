@@ -1,2 +1,3 @@
-# robotica_com_sucata
-Repositório para o Projeto Final de rebótica com sucata. 
+#### Projeto Final da Disciplina "Robótica com Sucata"
+
+Projeto Final da Disciplina "Robótica com Sucata" do curso de especialização em Computação Aplicada a Educação da UNiversidade de São Paulo (USP).
